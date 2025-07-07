@@ -57,7 +57,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🎮 **Lost I Castle** | A cinematic platformer built in Unreal Engine 5 |
+| 🎮 **Lost In Castle** | A cinematic platformer built in Unreal Engine 5 |
 | 🎥 **Motion Capture Animator** | Python GUI with MediaPipe for generating animations |
 | 🔍 **Phishing Website Detector** | Real-time phishing detection using ML |
 | 💳 **Credit Card Fraud Detection** | SMOTE + Random Forest for fraud detection |
@@ -94,7 +94,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthikeya99&label=Profile%20views&color=0e75b6&style=flat" alt="karthikeya99" />
+  <img src="https://komarev.com/ghpvc/?username=karthikeya098&label=Profile%20views&color=0e75b6&style=flat" alt="karthikeya99" />
 </p>
 
 <p align="center">🚀 Leveling up with every line of code. Let’s build something epic. 🎮</p>
