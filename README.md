@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Karthikeya Macha</h1>
-<h3 align="center">🎮 Game Dev Enthusiast | 💡 Tech Explorer | 👨‍💻 Python + AI Developer</h3>
+<h3 align="center">  💡 Tech Explorer | 👨‍💻 Python + AI Developer | 🎮 Game Dev Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Code+%3D+Creativity+%2B+Logic;Python+%7C+Unreal+Engine+%7C+AI+%7C+Cloud;Lover+of+Tech%2C+Games%2C+and+Clean+Code" alt="Typing SVG" />
@@ -86,9 +86,9 @@
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:karthikeya@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/karthikeya99"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/karthikeya99"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:machakarthikeya26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/karthikeya99](https://www.linkedin.com/in/macha-karthikeya-85b27b295/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/karthikeya098"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
